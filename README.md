@@ -96,7 +96,7 @@ Compares inventory levels with reorder points for the selected Top 10 SKUs to su
 
 ## Dashboard Preview
 
-![FMCG Supply Chain Executive Dashboard](Dashboard/FMCG_Supply_Chain_Dashboard.png)
+![FMCG Supply Chain Executive Dashboard](Dashboard/FMCG SUPPLY CHAIN EXECUTIVE DASHBOARD.png)
 
 ## Project Structure
 
